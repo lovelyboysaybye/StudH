@@ -89,4 +89,16 @@
 		height: 45px;
 	}
 	
-}	
+}
+
+@media only screen and (max-height: 350px)
+{
+	.ICON{
+		height: 10px;
+		width: 10px;
+	}
+	.BOTTOM_MENU{
+		height: 15px;
+	}
+	
+}		
