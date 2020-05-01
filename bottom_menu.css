@@ -27,6 +27,8 @@
 		top: 5px;
 		background-color: white;
 		border-radius:50%;
+		position: fixed;
+		bottom: 0px;
 		}
 
 .ICON IMG{
