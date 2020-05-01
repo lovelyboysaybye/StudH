@@ -81,7 +81,7 @@
 {
 	.ICON{
 		height: 10%;
-		/*width: 10%;*/ 
+		width: 10%;
 	}
 	.BOTTOM_MENU{
 		height: calc(10%+5px);
