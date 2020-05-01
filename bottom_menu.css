@@ -59,8 +59,9 @@
 	.BOTTOM{
 		display: none;
 	}
-	.BOTTOM_MENU{
-		height: 90px;
+	.ICON{
+		height: 85px;
+		width: 85px; 
 	}
 	#footer_b{
 		visibility: visible;
@@ -73,7 +74,7 @@
 @media only screen and (max-width: 450px)
 {
 	.ICON{
-		height: 70px;
-		width: 70px; 
+		height: 60px;
+		width: 60px; 
 	}
 }	
