@@ -42,9 +42,11 @@
 		display: flex;
 	}
 	.ICON{
-		top: 5px
 		height: 85px;
 		width: 85px; 
+	}
+	.BOTTOM_MENU{
+		height: 90px;
 	}
 	#footer_b{
 		visibility: hidden;
@@ -61,9 +63,11 @@
 		display: none;
 	}
 	.ICON{
-		top: 5px
 		height: 85px;
 		width: 85px; 
+	}
+	.BOTTOM_MENU{
+		height: 90px;
 	}
 	#footer_b{
 		visibility: visible;
@@ -76,8 +80,10 @@
 @media only screen and (max-width: 450px)
 {
 	.ICON{
-		top: 25px
 		height: 60px;
 		width: 60px; 
+	}
+	.BOTTOM_MENU{
+		height: 65px;
 	}
 }	
