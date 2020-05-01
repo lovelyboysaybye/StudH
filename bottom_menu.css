@@ -89,7 +89,7 @@
 		height: 45px;
 	}
 	#main_body{
-		height: calc(100% + 45px);
+		height: calc(100% + 245px);
 	}
 }
 
@@ -104,7 +104,7 @@
 		height: 50px;
 	}
 	#main_body{
-		height: calc(100% + 50px);
+		height: calc(100% + 250px);
 	}
 	
 }		
