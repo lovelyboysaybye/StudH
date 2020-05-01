@@ -94,6 +94,8 @@
 @media only screen and (max-height: 450px)
 {
 	.ICON{
+
+		top: 0px;
 		height: 35px;
 		width: 35px;
 	}
