@@ -44,6 +44,7 @@
 	.ICON{
 		height: 85px;
 		width: 85px; 
+		top: 5px;
 	}
 	.BOTTOM_MENU{
 		height: 90px;
@@ -65,6 +66,7 @@
 	.ICON{
 		height: 85px;
 		width: 85px; 
+		top: 5px;
 	}
 	.BOTTOM_MENU{
 		height: 90px;
@@ -84,6 +86,7 @@
 		width: 40px;
 	}
 	.BOTTOM_MENU{
+		height: 45px;
 	}
 	
 }	
