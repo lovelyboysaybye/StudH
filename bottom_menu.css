@@ -57,7 +57,7 @@
 		display: none !important;
 	}
 	.spacee{
-		height: 0px;
+		height: 0px !important;
 	}
 }
 
@@ -81,7 +81,7 @@
 		display: block;
 	}
 		.spacee{
-		height: 0px;
+		height: 0px !important;
 	}
 }	
 
@@ -95,7 +95,7 @@
 		height: 45px;
 	}
 		.spacee{
-		height: 100px;
+		height: 100px !important;
 	}	
 
 }
@@ -112,6 +112,6 @@
 	}
 	
 	.spacee{
-		height: 100px;
+		height: 100px !important;
 	}	
 }		
