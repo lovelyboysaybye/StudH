@@ -36,18 +36,14 @@
 		z-index: 3;
 		}
 
-.SECOND_ICON IMG{
-		height: 60px; 
-		margin-left: 12px; 
-		margin-top: 12px; 
-		z-index: 2; 
-		margin-top: -85px;
-		}
-
 @media only screen and (max-width: 900px)
 {
 	.BOTTOM{
 		display: flex;
+	}
+	.ICON{
+		height: 85px;
+		width: 85px; 
 	}
 	#footer_b{
 		visibility: hidden;
@@ -63,6 +59,9 @@
 	.BOTTOM{
 		display: none;
 	}
+	.BOTTOM_MENU{
+		height: 90px;
+	}
 	#footer_b{
 		visibility: visible;
 	}
@@ -71,3 +70,10 @@
 	}
 }	
 
+@media only screen and (max-width: 450px)
+{
+	.ICON{
+		height: 70px;
+		width: 70px; 
+	}
+}	
