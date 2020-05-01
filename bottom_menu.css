@@ -22,13 +22,14 @@
 		}
 
 .ICON 	{
+	
+		position: absolute;
+		bottom: 0px;
 		height: 85px; 
 		width: 85px; 
 		top: 5px;
 		background-color: white;
 		border-radius:50%;
-		position: absolute;
-		bottom: 0px;
 		}
 
 .ICON IMG{
