@@ -42,6 +42,7 @@
 		display: flex;
 	}
 	.ICON{
+		top: 5px
 		height: 85px;
 		width: 85px; 
 	}
@@ -60,6 +61,7 @@
 		display: none;
 	}
 	.ICON{
+		top: 5px
 		height: 85px;
 		width: 85px; 
 	}
@@ -74,6 +76,7 @@
 @media only screen and (max-width: 450px)
 {
 	.ICON{
+		top: 25px
 		height: 60px;
 		width: 60px; 
 	}
