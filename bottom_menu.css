@@ -94,11 +94,11 @@
 @media only screen and (max-height: 450px)
 {
 	.ICON{
-		height: 30px;
-		width: 30px;
+		height: 35px;
+		width: 35px;
 	}
 	.BOTTOM_MENU{
-		height: 35px;
+		height: 40px;
 	}
 	
 }		
