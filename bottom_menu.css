@@ -88,7 +88,9 @@
 	.BOTTOM_MENU{
 		height: 45px;
 	}
-	
+	#main_body{
+		height: calc(100% + 45px);
+	}
 }
 
 @media only screen and (max-height: 450px)
@@ -100,6 +102,9 @@
 	}
 	.BOTTOM_MENU{
 		height: 50px;
+	}
+	#main_body{
+		height: calc(100% + 50px);
 	}
 	
 }		
