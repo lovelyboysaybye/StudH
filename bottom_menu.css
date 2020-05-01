@@ -56,6 +56,9 @@
 	.has-submenu{
 		display: none !important;
 	}
+	.spacee{
+		height: 0px;
+	}
 }
 
 @media only screen and (min-width: 900px)
@@ -76,6 +79,9 @@
 	}
 	.has-submenu{
 		display: block;
+	}
+		.spacee{
+		height: 0px;
 	}
 }	
 
