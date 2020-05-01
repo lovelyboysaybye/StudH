@@ -80,11 +80,11 @@
 @media only screen and (max-width: 450px)
 {
 	.ICON{
-		height: 2%;
-		width: 2%; 
+		height: 5%;
+		width: 5%; 
 	}
 	.BOTTOM_MENU{
-		height: calc(2%+5px);
+		height: calc(5%+5px);
 	}
 	
 }	
